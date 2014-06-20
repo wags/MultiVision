@@ -1,0 +1,10 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Wagner <matthew.c.wagner@gmail.com>"
+  ],
+  "description": "\"Extreme Tech Training\"",
+  "license": "MIT",
+  "private": true
+}
